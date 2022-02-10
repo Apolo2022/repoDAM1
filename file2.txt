@@ -1,1 +1,2 @@
 esto es el archivo2
+segunda linea en file 2
